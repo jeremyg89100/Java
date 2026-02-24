@@ -74,13 +74,8 @@ public class App {
         // System.out.println(type);
 
         // Exo 11
-
-        // int compute42 = 7 * 6;
-
-        // String string42 = String.valueOf(compute42);
-        // String type42 = string42.getClass().getSimpleName();
-        // System.out.println(string42);
-        // System.out.println(type42);
+        // String compute42 = Integer.toString(7 * 6);
+        // System.out.println(compute42);
 
         // Exo 12
 
