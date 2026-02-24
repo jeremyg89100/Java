@@ -80,10 +80,7 @@ public class App {
         // Exo 12
 
         // String multiple42 = "42424242";
-        // String qd = "42";
-        // String qd2 = "quarante-deux";
-        // String newString42 = multiple42.replace(qd, qd2);
-        // System.out.println(newString42);
+        // System.out.println(multiple42.replace("42", "quarante-deux"));
 
         // Exo 13
 
