@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.collections.FXCollections?>
+<?import java.lang.String?>
+
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.layout.Pane?>
+
+
+<?import javafx.scene.control.Label?>
+<Pane fx:controller="Exo5" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/25" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <ComboBox onAction="#handleSelection" fx:id="cbbox" layoutX="347.0" layoutY="50.0" prefHeight="63.0" prefWidth="213.0" promptText="Choisissez une ville">
+         <items>
+            <FXCollections fx:factory="observableArrayList">
+               <String fx:id="paris" fx:value="Paris" />
+               <String fx:id="lyon" fx:value="Lyon" />
+               <String fx:id="bordeaux" fx:value="Bordeaux" />
+            </FXCollections>
+         </items>
+      </ComboBox>
+      <Label fx:id = "resultLabel" text="Aucune ville selectionnée"/>
+   </children>
+</Pane>
