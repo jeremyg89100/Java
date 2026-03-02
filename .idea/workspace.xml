@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35fe31cc-a3b9-4a26-b4be-e2b57e7fdd55" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/JfxDemo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JfxDemo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JfxDemo/.idea/libraries/JavaFX.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JfxDemo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JfxDemo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JfxDemo/JfxDemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JfxDemo/src/Exo5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JfxDemo/src/Exo6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JfxDemo/src/Exo7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JfxDemo/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JfxDemo/src/Personne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JfxDemo/src/fxml/exo5.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JfxDemo/src/fxml/exo6.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JfxDemo/src/fxml/exo7.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JfxDemo/src/fxml/test.fxml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="3AOyYNUDbUaI7S5A6LTP5CbAl5L" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/jerem/Desktop/DossierCode/JavaFX/Projects",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35fe31cc-a3b9-4a26-b4be-e2b57e7fdd55" name="Changes" comment="" />
+      <created>1772477957701</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1772477957701</updated>
+      <workItem from="1772477958914" duration="911000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
