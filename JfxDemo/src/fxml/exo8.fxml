@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.Pane?>
+
+
+<Pane fx:controller="Exo8" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/25" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Button onAction="#newWindows" fx:id="ouvrir" layoutX="243.0" layoutY="167.0" mnemonicParsing="false" prefHeight="67.0" prefWidth="114.0" text="Ouvrir une fenêtre" />
+   </children>
+</Pane>

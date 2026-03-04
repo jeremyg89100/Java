@@ -15,7 +15,7 @@ import java.util.Stack;
 public class Main extends Application {
     @Override
     public void start(Stage primaryStage) {
-        exo6(primaryStage);
+        exo7(primaryStage);
     }
 
     public static void main(String[] args) {
@@ -125,10 +125,59 @@ public class Main extends Application {
             e.printStackTrace();
         }
     }
-//    public void exo7(Stage primaryStage) {
-//        try {
-//            FXMLLoader loader = new FXMLLoader(getClass().getResource("/fxml/exo7.fxml"));
-//            Parent root = loader.load();
-//        }
-
+    public void exo7(Stage primaryStage) {
+        try {
+            Parent root = FXMLLoader.load(getClass().getResource("/fxml/exo7.fxml"));
+            primaryStage.setTitle("Exo7");
+            primaryStage.setScene(new Scene(root, 600, 400));
+            primaryStage.show();
+        } catch (IOException e) {
+            System.err.println("Impossible de charger le fichier FXML");
+            e.printStackTrace();
+        }
+    }
+    public void exo8(Stage primaryStage) {
+        try {
+            Parent root = FXMLLoader.load(getClass().getResource("/fxml/exo8.fxml"));
+            primaryStage.setTitle("Exo8");
+            primaryStage.setScene(new Scene(root, 600, 400));
+            primaryStage.show();
+        } catch (IOException e) {
+            System.err.println("Impossible de charger le fichier FXML");
+            e.printStackTrace();
+        }
+    }
+    public void exo9(Stage primaryStage) {
+        try {
+            Parent root = FXMLLoader.load(getClass().getResource("/fxml/exo9.fxml"));
+            primaryStage.setTitle("Exo9");
+            primaryStage.setScene(new Scene(root, 600, 400));
+            primaryStage.show();
+        } catch (IOException e) {
+            System.err.println("Impossible de charger le fichier FXML");
+            e.printStackTrace();
+        }
+    }
+    public void exo10(Stage primaryStage) {
+        try {
+            Parent root = FXMLLoader.load(getClass().getResource("/fxml/exo10.fxml"));
+            primaryStage.setTitle("Exo10");
+            primaryStage.setScene(new Scene(root, 600, 400));
+            primaryStage.show();
+        } catch (IOException e) {
+            System.err.println("Im possible de charger le fichier FXML");
+            e.printStackTrace();
+        }
+    }
+    public void exo11(Stage primaryStage) {
+        try {
+            Parent root = FXMLLoader.load(getClass().getResource("/fxml/exo11.fxml"));
+            primaryStage.setTitle("Exo11");
+            primaryStage.setScene(new Scene(root, 600, 400));
+            primaryStage.show();
+        } catch (IOException e) {
+            System.err.println("Impossible de charger le fichier FXML");
+            e.printStackTrace();
+        }
+    }
 }
